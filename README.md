@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Hi I'm srihari ...<br>🌱 I’m currently learning programming ...<br>👯 I’m Interested in full stack development ...<br>💬 Ask me about labview ...<br>📫 How to reach me:@srihari.ec20@bitsathy.ac.in ... <br>https://www.linkedin.com/in/sri-hari-850a91200/
+🔭Hi I'm srihari ...<br>🌱 I’m currently learning programming ...<br>👯 I’m Interested in  full stack development  ...<br>💬 Ask me about labview  and basics of electronics ...<br>📫 How to reach me:@srihari.ec20@bitsathy.ac.in ... <br>https://www.linkedin.com/in/sri-hari-850a91200/
 
 
 ## 🌐 Socials:
